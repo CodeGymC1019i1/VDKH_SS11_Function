@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    function checkNumber(number) {
+        if (Number.isInteger(number) && number >=0 ){
+            return true;
+        }
+        else {
+            return false
+        }
+    }
+    let n = parseFloat(prompt('nhập số cần kiểm tra: '));
+    if (checkNumber(n) === true){
+        document.write( n + ' là số nguyên dương');
+    }else {
+        document.write(n + ' không phải số nguyên dương');
+    }
+</script>
+</body>
+</html>

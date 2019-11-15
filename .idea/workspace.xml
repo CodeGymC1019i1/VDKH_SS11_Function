@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f278d520-18e7-483e-9f00-7153c8d5953c" name="Default Changelist" comment="" />
+    <list default="true" id="f278d520-18e7-483e-9f00-7153c8d5953c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/.idea/Bai_tap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/alert_message/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/alert_message/alert_message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/compare_number/compare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/compare_number/compare_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/display_number/display_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/display_number/display_number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/edit_code/edit_code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/find_star/find_star.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1/find_star/find_star.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/calc_acreage_perimeter/calc_acreage_perimeter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/calc_acreage_perimeter/calc_acreage_perimeter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/calc_square/calc_square.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/calc_square/calc_square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/check_number/check_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/check_typeof_input/check_typeof_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/check_typeof_input/check_typeof_input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/factorial_number/factorial_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/factorial_number/factorial_number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/min_number/min_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/reverse_2_number/reverse_2_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_2/reverse_array/reverse_array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/convert_unit_of_lenght/convert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dong/Bai_tap/convert_unit_of_lenght/convert_unit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +38,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TZDHN5SFK2xSTjXjR9qEvFwJWA" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="Images" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dong/Bai_tap" />
+      <recent name="$PROJECT_DIR$/Dong/Bai_tap/bai_tap_ham_1" />
       <recent name="$PROJECT_DIR$/Dong/thuc_hanh/convert_temperature" />
       <recent name="$PROJECT_DIR$/Dong/thuc_hanh/create_and_call_function" />
     </key>
@@ -52,10 +85,25 @@
       <updated>1573658635760</updated>
       <workItem from="1573658637081" duration="2743000" />
       <workItem from="1573661484787" duration="1238000" />
+      <workItem from="1573719492308" duration="5993000" />
+      <workItem from="1573740662980" duration="3699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

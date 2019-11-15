@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = [];
+    let delta;
+    function inputArray(a) {
+        for (let i = 0; i < a ; i++) {
+            a[i] = prompt('nhập vào phần tử thứ: '+i)
+        }
+        return a;
+    }
+    function reverseArray(a) {
+        delta = a[0];
+        for(let i = 0; i < a.length ; i++) {
+            a[i] = a[i+1];
+            a[i+1] = delta;
+        }
+        return a;
+    }
+    inputArray(5);
+    document.write(reverseArray(a));
+</script>
+</body>
+</html>

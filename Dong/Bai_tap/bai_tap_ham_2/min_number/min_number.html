@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    let a = [];
+    let min;
+
+    function inputNumber(n) {
+        for (let i = 0; i < n; i++) {
+            a[i] = prompt('nhập vào số thứ ' + (i + 1));
+        }
+        return a;
+    }
+
+
+    function findMin(a) {
+        min = a[0];
+        for (let i = 0; i < a.length; i++) {
+            if (a[i] < min) {
+                min = a[i];
+            }
+        }
+        return min;
+    }
+
+    function main() {
+        inputNumber(3);
+        findMin(a);
+        document.write('ba số vừa nhập là: ' + a + '<br>');
+        document.write('số nhỏ nhất trong 3 số vừa nhập là: ' + min);
+    }
+
+    main();
+</script>
+</body>
+</html>
